@@ -1,0 +1,1 @@
+ python.exe vol.py -f 'insert file path for memory dump\MemoryDump.dmp' timeliner > 'insert output path\timeline.txt
